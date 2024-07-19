@@ -1,1 +1,8 @@
 
+site_name: 'node-example-docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
